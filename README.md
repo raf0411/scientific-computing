@@ -4,3 +4,4 @@ This Repo contains codes and calculation from a study case as an Assurance of Le
 
 ## Tools
 * Python
+* Jupyter Notebook
